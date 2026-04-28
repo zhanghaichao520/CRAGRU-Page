@@ -1,7 +1,7 @@
 
 # Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning
 
-官方项目主页：[https://zhanghaichao520.github.io/CRAGRU-Page/](https://zhanghaichao520.github.io/CRAGRU-Page/)
+官方项目主页：[https://zhang-haichao.github.io/CRAGRU-Page/](https://zhang-haichao.github.io/CRAGRU-Page/)
 
 ---
 
@@ -71,7 +71,7 @@
   author={Zhang, Haichao and Zhang, Chong and Hu, Peiyu and Qiu, Shi and Wang, Jia},
   journal={arXiv preprint arXiv:2511.05494},
   year={2025},
-  url={https://zhanghaichao520.github.io/CRAGRU-Page/}
+  url={https://zhang-haichao.github.io/CRAGRU-Page/}
 }
 
 ```
@@ -84,5 +84,5 @@
 
 Email: `zhc@liverpool.ac.uk` 
 
-Project Page: [https://zhanghaichao520.github.io/CRAGRU-Page/](https://zhanghaichao520.github.io/CRAGRU-Page/)
+Project Page: [https://zhang-haichao.github.io/CRAGRU-Page/](https://zhang-haichao.github.io/CRAGRU-Page/)
 
